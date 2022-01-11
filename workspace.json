@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "reactapp": "apps/reactapp",
+    "reactapp-e2e": "apps/reactapp-e2e"
+  }
+}
